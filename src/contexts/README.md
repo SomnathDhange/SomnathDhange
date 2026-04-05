@@ -2,33 +2,33 @@
 
 Please continue reading below to explore the features of the Pro version:
 
-# Mantis Admin Panel - Unlock Premium Features with the Pro Version
+# FleetGlanceIQ Admin Panel - Unlock Premium Features with the Pro Version
 
-Elevate your project with the Pro Version of the <b>Mantis Admin Panel!</b> Built to cater to modern web applications, the Pro version is loaded with advanced features, intuitive design elements, and dynamic tools that ensure seamless functionality.
+Elevate your project with the Pro Version of the <b>FleetGlanceIQ Admin Panel!</b> Built to cater to modern web applications, the Pro version is loaded with advanced features, intuitive design elements, and dynamic tools that ensure seamless functionality.
 
 This page (folder) is a sneak peek into the premium features available in <b>version 3.4.0</b>. Upgrade to the Pro version to unlock exclusive pages and components that will take your project to the next level.
 
 ## Included in the Pro Version:
 
-[🚀 Dashboards](https://mantisdashboard.com/dashboard/default) : Advanced dashboards with real-time insights and data visualizations for actionable metrics.
+[🚀 Dashboards](https://fleetglanceiqdashboard.com/dashboard/default) : Advanced dashboards with real-time insights and data visualizations for actionable metrics.
 
-[📦 Widgets](https://mantisdashboard.com/widget/statistics) : A curated library of pre-built widgets for enhanced functionality and faster development.
+[📦 Widgets](https://fleetglanceiqdashboard.com/widget/statistics) : A curated library of pre-built widgets for enhanced functionality and faster development.
 
-[🔧 Components](https://mantisdashboard.com/components-overview/buttons) : A rich collection of reusable and customizable UI components.
+[🔧 Components](https://fleetglanceiqdashboard.com/components-overview/buttons) : A rich collection of reusable and customizable UI components.
 
-[📝 Forms](https://mantisdashboard.com/forms/wizard) : Dynamic and customizable forms with advanced validation features for a smooth user experience.
+[📝 Forms](https://fleetglanceiqdashboard.com/forms/wizard) : Dynamic and customizable forms with advanced validation features for a smooth user experience.
 
-[📊 Tables](https://mantisdashboard.com/tables/react-table/basic) : Structured, interactive tables with sorting, filtering, and pagination options.
+[📊 Tables](https://fleetglanceiqdashboard.com/tables/react-table/basic) : Structured, interactive tables with sorting, filtering, and pagination options.
 
-[📈 Charts](https://mantisdashboard.com/charts/apexchart) : Beautifully designed charts powered by modern data visualization libraries.
+[📈 Charts](https://fleetglanceiqdashboard.com/charts/apexchart) : Beautifully designed charts powered by modern data visualization libraries.
 
-[🔒 Authentication](https://mantisdashboard.com/auth/login) : Secure pages for login, registration, and password recovery, ensuring robust user management.
+[🔒 Authentication](https://fleetglanceiqdashboard.com/auth/login) : Secure pages for login, registration, and password recovery, ensuring robust user management.
 
-[🛒 E-commerce App](https://mantisdashboard.com/apps/e-commerce/products) : A complete e-commerce management system for handling products, inventory, and transactions.
+[🛒 E-commerce App](https://fleetglanceiqdashboard.com/apps/e-commerce/products) : A complete e-commerce management system for handling products, inventory, and transactions.
 
-[💬 Chat Messages](https://mantisdashboard.com/apps/chat) : An integrated chat system to enhance communication within your application.
+[💬 Chat Messages](https://fleetglanceiqdashboard.com/apps/chat) : An integrated chat system to enhance communication within your application.
 
-[👤 User Profile](https://mantisdashboard.com/apps/profiles/user/personal) : A sleek and customizable user profile page for managing user details and settings.
+[👤 User Profile](https://fleetglanceiqdashboard.com/apps/profiles/user/personal) : A sleek and customizable user profile page for managing user details and settings.
 
 ## Why Upgrade to the Pro Version?
 
@@ -40,4 +40,4 @@ This page (folder) is a sneak peek into the premium features available in <b>ver
 
 ## Get Started with the Pro Version!
 
-👉 [Explore the Pro version now](https://codedthemes.com/item/mantis-angular-admin-template/) - and supercharge your development experience!
+👉 [Explore the Pro version now](https://codedthemes.com/item/fleetglanceiq-angular-admin-template/) - and supercharge your development experience!
